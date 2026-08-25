@@ -27,4 +27,4 @@ Grab the latest release from the download link above.
 
 ## A note on usage
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.                 
+> For personal, lawful use only. Trademarks are the property of their owners.                  
